@@ -52,7 +52,15 @@ print("{:.2f}".format(norm))
 ### 1-Norm of a Matrix
 
 
+![image](https://github.com/user-attachments/assets/78691f9f-9a96-4542-b6fd-55e8c463986d)
+
+
+
 ### 2-Norm of a Matrix
+
+
+
+![image](https://github.com/user-attachments/assets/65ebbd88-8a58-4003-8934-bdc7d2c42626)
 
 
 ### Infinity Norm of a Matrix
